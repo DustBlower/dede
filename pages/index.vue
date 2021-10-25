@@ -20,7 +20,7 @@
             <div class="workList">
               <div class="communicationd"><a href="https://nuas-design-exhibition.com/communicationdesign"><img src="~assets/img/commd.png"></a></div>
               <div class="rippoutai"><a href="https://www.instagram.com/nuas_de.de.de.21/"><img src="~assets/img/rippoutai.png"></a></div>
-              <div class="buppan"><a href="https://www.instagram.com/nuas_de.de.de.21/"><img src="~assets/img/rippoutai.png"></a></div>
+              <div class="buppan"><a href="https://www.instagram.com/nuas_de.de.de.21/"><img src="~assets/img/mikoshi.jpg"></a></div>
             </div>
           </div>
       <div class="fourPage">
