@@ -88,12 +88,13 @@ export default {
         height: 70%;
         width: auto;
         animation: initLogo 1s  1s forwards;
-        transform: scale(0);
+        transform: scale(0) rotate(-180deg);
       }
       .type{
         background: url("assets/img/type.svg") no-repeat center;
         height: 10%;
         width: auto;
+        animation: initType 0.6s 2.1s forwards;
       }
     }
   }
@@ -139,7 +140,7 @@ export default {
       text-align: center;
     .linksTitle{
         color: rgb(255, 111, 0);
-        padding: 10px;
+        padding: 15px;
         font-size: 20px;
         border-radius: 15px;
         font-size: 22px;
@@ -239,13 +240,13 @@ export default {
   }
 }
   @keyframes initLogo {
-    0%{transform: scale(0);}
-    40%{transform: scale(1.1);}
-    100%{transform: scale(1);}
+    0%{transform: scale(0) rotate(-180deg)}
+    40%{transform: scale(1.1) rotate(20deg);}
+    100%{transform: scale(1) rotate(0deg);}
   }
-  @keyframes initMove {
-    0%{ transform: scale(1);}
-    50%{ transform: scale(1.05);}
-    100%{ transform: scale(1);}
+    @keyframes initType {
+    0%{transform: scale(1)}
+    40%{transform: scale(1.1)}
+    100%{transform: scale(1)}
   }
 </style>
