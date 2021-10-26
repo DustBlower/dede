@@ -11,8 +11,8 @@
       </div>
     <div class="pageList">
     <div class="twoPage">
-          <p class="aboutTitle">で!DE!デ!とは？？</p>
-          <p class="aboutText">学祭の概要がここにつらつらと書かれるこにつらつらと書かこにつらつらと書かこにつらつらと書かこにつらつらと書かこにつらつらと書かこにつらつらと書かこにつらつらと書か</p>
+          <p class="aboutTitle">で!De!デ!とは？？</p>
+          <p class="aboutText">学祭の概要がここにつらつらと書かれるこaaにつらつらと書かこにつらつらと書かこにつらつらと書かこにつらつらと書かこにつらつらと書かこにつらつらと書かこにつらつらと書か</p>
           </div>
         </div>
       <div class="threePage">
